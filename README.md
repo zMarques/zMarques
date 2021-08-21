@@ -19,7 +19,6 @@
   
   ##
 
-  <img align="center" alt="csharp" height="30" width="40" src="https://raw.githubusercontent.com/manuelbieh/logo-file-icons/6a172ce5a46ecfafe5db7f2ec624f4602cde9b8e/icons/csharp.svg">
   <img align="center" alt="arduino" height="30" width="40" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/arduino-1.svg">
 
   ##
