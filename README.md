@@ -36,7 +36,6 @@
   <img align="center" alt="excel" height="30" width="30" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/cd275ac07904b71cdbb0af0abb8f445b89bb1b57/icons/file_type_excel.svg">
   <img align="center" alt="vba" height="30" width="30" src="https://www.vectorlogo.zone/logos/microsoft_vb/microsoft_vb-icon.svg">
   <img align="center" alt="powerbi" height="25" width="30" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg">
-  <img align="center" alt="python" height="25" width="40" src="https://www.vectorlogo.zone/logos/python/python-icon.svg">
   
   
 </div>
