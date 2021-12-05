@@ -12,31 +12,34 @@
   
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="node" height="30" width="40" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg">
+  <img align="center" alt="node" height="30" width="40" src="https://symbols.getvecta.com/stencil_89/65_nodejs-icon.40ac81e939.svg">
   <img align="center" alt="react" height="30" width="40" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg">
   <img align="center" alt="html" height="30" width="40" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
   ##
 
-  <img align="center" alt="arduino" height="30" width="40" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/arduino-1.svg">
+  <img align="center" alt="arduino" height="30" width="40" src="https://symbols.getvecta.com/stencil_74/95_arduino.ba3d6988b2.svg">
+  
+  ##
+  
+  <img align="center" alt="docker" height="30" width="40" src="https://symbols.getvecta.com/stencil_78/87_docker-icon.6c5f4022d3.svg">
+  <img align="center" alt="nginx" height="30" width="40" src="https://symbols.getvecta.com/stencil_89/48_nginx-icon.09661a73ff.svg">
+  
+  <img align="center" alt="jest" height="30" width="40" src="https://symbols.getvecta.com/stencil_85/20_jest-icon.aff64ab210.svg">
+  <img align="center" alt="prisma" height="30" width="40" src="https://symbols.getvecta.com/stencil_261/35_prisma.3acb052337.svg">
 
   ##
   
-  <img align="center" alt="mysql" height="30" width="40" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg">
+  <img align="center" alt="pg" height="30" width="40" src="https://symbols.getvecta.com/stencil_261/33_postgresql.2657499023.svg">
+  <img align="center" alt="mysql" height="30" width="40" src="https://symbols.getvecta.com/stencil_261/27_mysql.4e2ff8ff6c.svg">
+  <img align="center" alt="maria" height="30" width="40" src="https://symbols.getvecta.com/stencil_261/23_mariadb.4d35917068.svg">
   
   ##
   
   <img align="center" alt="git" height="30" width="30" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
   <img align="center" alt="github" height="30" width="30" src="https://www.vectorlogo.zone/logos/github/github-tile.svg">
   <img align="center" alt="vscode" height="30" width="30" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg">
-  
-  ##
-  
-  <img align="center" alt="excel" height="30" width="30" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/cd275ac07904b71cdbb0af0abb8f445b89bb1b57/icons/file_type_excel.svg">
-  <img align="center" alt="vba" height="30" width="30" src="https://www.vectorlogo.zone/logos/microsoft_vb/microsoft_vb-icon.svg">
-  <img align="center" alt="powerbi" height="25" width="30" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg">
-  
   
 </div>
   
