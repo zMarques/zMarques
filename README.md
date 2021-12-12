@@ -33,7 +33,8 @@
   
   <img align="center" alt="pg" height="30" width="40" src="https://symbols.getvecta.com/stencil_261/33_postgresql.2657499023.svg">
   <img align="center" alt="mysql" height="30" width="40" src="https://symbols.getvecta.com/stencil_261/27_mysql.4e2ff8ff6c.svg">
-  <img align="center" alt="maria" height="30" width="40" src="https://symbols.getvecta.com/stencil_261/23_mariadb.4d35917068.svg">
+  <img align="center" alt="redis" height="30" width="40" src="https://symbols.getvecta.com/stencil_94/51_redis-icon.61d14dc02a.svg">
+  
   
   ##
   
