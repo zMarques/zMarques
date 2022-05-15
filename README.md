@@ -1,4 +1,15 @@
-### eae! 👋
+#### 👨🏻‍🚀 Meu nome é Thiago Marques 23y
+📚 Estudo Desenvolvimento Web há mais de um ano e estou cada vez mais apaixonado por programação
+
+Meus principais conhecimentos são no Back-end com NodeJs, Typescript e Javascript,<br>
+Já no Front-End atualmente trabalho com React e styled-components
+
+Objetivos >
+Construir uma base solida de conhecimento em node com Type/Javascript
+Me conectar com outros devs da area
+Ajudar a comunidade em geral nao apenas os devs
+
+marcha nos projetinho pai !! 🚀
 
 <div>
   <a href="https://github.com/zmarques">
@@ -14,12 +25,6 @@
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="node" height="30" width="40" src="https://symbols.getvecta.com/stencil_89/65_nodejs-icon.40ac81e939.svg">
   <img align="center" alt="react" height="30" width="40" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg">
-  <img align="center" alt="html" height="30" width="40" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  
-  ##
-
-  <img align="center" alt="arduino" height="30" width="40" src="https://symbols.getvecta.com/stencil_74/95_arduino.ba3d6988b2.svg">
   
   ##
   
