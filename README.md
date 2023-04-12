@@ -1,25 +1,25 @@
-### 👨🏻‍🚀 Meu nome é Thiago Marques 23y
+## 👋 Olá, meu nome é Thiago Marques!
 
-- 🏢 Emprego Atual:  NewSun Energy - FrontEnd Pleno
-- 📖 Principais Conhecimentos:  Typescript - React - ChakraUI - ReactQuery
-- ✍️ Estudando:  Stitches - Radix - NextJS
+Sou  desenvolvedor full-stack com experiência em criar aplicações web escaláveis e eficientes.<br>
+Adoro aprender novas tecnologias e enfrentar desafios complexos.<br>
+Meu objetivo é construir soluções de software incríveis e contribuir para projetos open-source.<br>
 
+### 🚀 Habilidades
 
-Estudo Desenvolvimento Web há mais de um ano e estou cada vez mais apaixonado por programação
-
-Atualmente estou trabalhando no Front-End construindo aplicaçoes SPA usando ReactJS,
-Typescript, ChakraUI, ReactQuery, Vite.
-
-Minha paixão é poder solucionar problemas e sempre buscar nao a perfeçao mas sim melhorar cada dia mais
-
-System Design e Devops é um assunto que eu gosto bastante e sempre estou estudando. 
-tenho conhecimnento em algumas ferramentas da area como Docker, Terraform e Anisble
-e familiaridade com Clouds como AWS e Digital Ocean
+- 💻 Linguagens de programação: Typescript, JavaScript
+- ⚙️ Front-end: HTML5, CSS3, React, Svelte, Nextjs
+- 🛠️ Back-end: Node.js, Nestjs
+- 🗄️ Bancos de dados: MySQL, PostgreSQL, MongoDB, Redis
+- ☁️ Cloud Computing: AWS, DigitalOcean, Heroku
+- 📦 Gerenciamento de projetos: Git, GitHub,
+- 🚢 Deploy e CI/CD: Docker, GitHubActions, Ansible, Terraform
 
 
-#### Objetivos >
- - Construir uma base solida de conhecimento em node com Typescript
- - Me conectar com outros devs da area
- - Ajudar a comunidade em geral nao apenas os devs
+<!-- ###🌐 Projetos em destaque
+- Nome do Projeto 1: Link do repositório - Descrição curta do projeto
+- Nome do Projeto 2: Link do repositório - Descrição curta do projeto
+- Nome do Projeto 3: Link do repositório - Descrição curta do projeto -->
 
-#### Marcha nos projetinho pai !! 🚀
+### 📫 Contato
+- 💼 [LinkedIn](https://www.linkedin.com/in/thiago-marques-6a646b214/)
+- 📧 Email: contato.tmarques@gmail.com
